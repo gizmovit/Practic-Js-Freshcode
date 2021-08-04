@@ -40,3 +40,10 @@ for (let i = 0; i < array.length; i++) {
     }
 }
 console.log(array);
+
+
+const array = [1, 2, 3, 4, 5];
+for(let i = 6; i <= 10; i++) {
+    if (i %   i+i)  
+} 
+  
